@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>What if videos: download, caption and description for YouTube</title>
+<style>
+  :root { --bg:#0f1226; --card:#181c36; --line:#2a3058; --text:#eef0ff; --muted:#9aa2cf; --accent:#ffd84a; --red:#ff5a3c; --green:#4cd48b; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:15px/1.5 -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { padding:28px 20px 8px; max-width:1200px; margin:0 auto; }
+  h1 { margin:0 0 4px; font-size:26px; }
+  header p { margin:0; color:var(--muted); }
+  .bar { display:flex; gap:10px; flex-wrap:wrap; align-items:center; max-width:1200px; margin:16px auto 0; padding:0 20px; }
+  input[type=search] { flex:1; min-width:200px; padding:10px 14px; border-radius:10px; border:1px solid var(--line); background:var(--card); color:var(--text); font-size:15px; }
+  .chip { border:1px solid var(--line); background:var(--card); color:var(--muted); padding:8px 14px; border-radius:999px; cursor:pointer; font-size:14px; }
+  .chip.on { color:#14162b; background:var(--accent); border-color:var(--accent); font-weight:600; }
+  main { max-width:1200px; margin:18px auto 60px; padding:0 20px; display:grid; grid-template-columns:repeat(auto-fill, minmax(250px, 1fr)); gap:18px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; overflow:hidden; display:flex; flex-direction:column; }
+  .thumb { position:relative; aspect-ratio:9/16; background:#000; cursor:pointer; }
+  .thumb img { width:100%; height:100%; object-fit:cover; display:block; }
+  .thumb .play { position:absolute; right:10px; bottom:10px; background:rgba(0,0,0,.65); border-radius:999px; padding:4px 10px; font-size:13px; }
+  .body { padding:12px 14px 14px; display:flex; flex-direction:column; gap:8px; }
+  .title { font-weight:700; font-size:15px; line-height:1.3; }
+  .meta { color:var(--muted); font-size:13px; }
+  .row { display:flex; gap:8px; flex-wrap:wrap; }
+  a.btn, button.btn { display:inline-flex; align-items:center; gap:6px; padding:8px 12px; border-radius:9px; border:1px solid var(--line); background:#20254a; color:var(--text); text-decoration:none; font-size:13px; cursor:pointer; font-family:inherit; }
+  a.btn:hover, button.btn:hover { border-color:var(--accent); }
+  a.primary, button.primary { background:var(--accent); color:#14162b; border-color:var(--accent); font-weight:700; }
+  .copied { border-color:var(--green) !important; color:var(--green) !important; }
+  dialog { width:min(880px, 94vw); max-height:92vh; border:1px solid var(--line); border-radius:16px; background:var(--bg); color:var(--text); padding:0; }
+  dialog::backdrop { background:rgba(0,0,0,.7); }
+  .dhead { display:flex; justify-content:space-between; align-items:center; padding:14px 18px; border-bottom:1px solid var(--line); position:sticky; top:0; background:var(--bg); z-index:2; }
+  .dbody { padding:16px 18px 22px; display:grid; grid-template-columns:240px 1fr; gap:20px; }
+  @media (max-width:700px) { .dbody { grid-template-columns:1fr; } }
+  .dbody video, .dbody img.big { width:100%; border-radius:12px; background:#000; aspect-ratio:9/16; object-fit:cover; }
+  label.f { display:flex; justify-content:space-between; align-items:center; margin:12px 0 4px; font-weight:700; }
+  label.f small { color:var(--muted); font-weight:400; }
+  textarea, input.t { width:100%; background:var(--card); color:var(--text); border:1px solid var(--line); border-radius:10px; padding:10px 12px; font:14px/1.5 inherit; font-family:inherit; resize:vertical; }
+  .count.bad { color:var(--red); }
+  .empty { grid-column:1/-1; color:var(--muted); text-align:center; padding:40px; }
+  footer { max-width:1200px; margin:0 auto 40px; padding:0 20px; color:var(--muted); font-size:13px; }
+  footer a { color:var(--accent); }
+</style>
+</head>
+<body>
+<header>
+  <h1>What if videos</h1>
+  <p id="sub">Loading...</p>
+</header>
+<div class="bar">
+  <input id="q" type="search" placeholder="Search by title or topic">
+  <span id="chips"></span>
+</div>
+<main id="grid"></main>
+<footer>
+  <p>Tip: "Everything (.zip)" holds the video, thumbnail, captions (.srt and .vtt) and the title, description and tags as a text file.
+  On YouTube: Upload, pick the video, paste the title and description, add tags under "Show more", upload the thumbnail, then under Subtitles upload the .srt.</p>
+</footer>
+
+<dialog id="dlg">
+  <div class="dhead"><strong id="dtitle"></strong><button class="btn" id="close">Close</button></div>
+  <div class="dbody">
+    <div>
+      <video id="dvideo" controls playsinline preload="none"></video>
+      <div class="row" style="margin-top:10px" id="dlinks"></div>
+    </div>
+    <div>
+      <label class="f">YouTube title <span><small class="count" id="ctitle"></small> <button class="btn" data-copy="title">Copy</button></span></label>
+      <input class="t" id="ftitle" readonly>
+      <label class="f">Description <span><small class="count" id="cdesc"></small> <button class="btn" data-copy="desc">Copy</button></span></label>
+      <textarea id="fdesc" rows="14" readonly></textarea>
+      <label class="f">Tags <span><small class="count" id="ctags"></small> <button class="btn" data-copy="tags">Copy</button></span></label>
+      <textarea id="ftags" rows="3" readonly></textarea>
+      <label class="f">Pinned comment <span><button class="btn" data-copy="pin">Copy</button></span></label>
+      <input class="t" id="fpin" readonly>
+    </div>
+  </div>
+</dialog>
+
+<script>
+let DATA = null, LANG = 'all';
+const $ = (s) => document.querySelector(s);
+const fmtSize = (b) => (b / 1048576).toFixed(1) + ' MB';
+const fmtDur = (s) => `${Math.floor(s / 60)}:${String(Math.round(s % 60)).padStart(2, '0')}`;
+const rel = (v, name) => `https://github.com/${DATA.repo}/releases/download/${DATA.tag}/${name}`;
+const langName = { en: 'English', hi: 'Hindi' };
+
+fetch('data/videos.json').then((r) => r.json()).then((d) => {
+  DATA = d;
+  $('#sub').textContent = `${d.videos.length} videos with thumbnail, captions and a YouTube-ready title, description and tags. One click to download each.`;
+  const langs = ['all', ...new Set(d.videos.map((v) => v.language))];
+  $('#chips').innerHTML = langs.map((l) => `<button class="chip ${l === 'all' ? 'on' : ''}" data-l="${l}">${l === 'all' ? 'All' : langName[l] || l}</button>`).join(' ');
+  $('#chips').onclick = (e) => { const b = e.target.closest('[data-l]'); if (!b) return; LANG = b.dataset.l; document.querySelectorAll('.chip').forEach((c) => c.classList.toggle('on', c === b)); render(); };
+  render();
+}).catch((e) => { $('#sub').textContent = 'Could not load data/videos.json: ' + e.message; });
+
+$('#q').oninput = () => render();
+
+function render() {
+  const q = $('#q').value.trim().toLowerCase();
+  const list = DATA.videos.filter((v) => (LANG === 'all' || v.language === LANG) && (!q || (v.title + ' ' + v.tags.join(' ')).toLowerCase().includes(q)));
+  $('#grid').innerHTML = list.length ? list.map(card).join('') : '<div class="empty">No videos match.</div>';
+}
+
+function card(v) {
+  return `<article class="card" data-s="${v.slug}">
+    <div class="thumb" data-open="${v.slug}"><img loading="lazy" src="${v.thumbnail}" alt=""><span class="play">▶ ${fmtDur(v.duration)}</span></div>
+    <div class="body">
+      <div class="title">${esc(v.title)}</div>
+      <div class="meta">${langName[v.language] || v.language} · ${v.width}x${v.height} · ${fmtSize(v.bytes)}</div>
+      <div class="row">
+        <a class="btn primary" href="${rel(v, v.files.bundle)}">⬇ Everything (.zip)</a>
+        <a class="btn" href="${rel(v, v.files.video)}">⬇ Video</a>
+        <a class="btn" href="${v.srt}" download>⬇ Captions</a>
+        <button class="btn" data-open="${v.slug}">Details</button>
+      </div>
+    </div>
+  </article>`;
+}
+const esc = (t) => t.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+let cur = null;
+document.addEventListener('click', (e) => {
+  const o = e.target.closest('[data-open]');
+  if (o) return open(DATA.videos.find((v) => v.slug === o.dataset.open));
+  const c = e.target.closest('[data-copy]');
+  if (c && cur) {
+    const text = { title: cur.title, desc: cur.description, tags: cur.tags.join(', '), pin: cur.pinnedComment || '' }[c.dataset.copy];
+    navigator.clipboard.writeText(text).then(() => { const old = c.textContent; c.textContent = 'Copied'; c.classList.add('copied'); setTimeout(() => { c.textContent = old; c.classList.remove('copied'); }, 1200); });
+  }
+});
+$('#close').onclick = () => { $('#dvideo').pause(); $('#dlg').close(); };
+
+function open(v) {
+  cur = v;
+  $('#dtitle').textContent = v.title;
+  $('#ftitle').value = v.title;
+  $('#fdesc').value = v.description;
+  $('#ftags').value = v.tags.join(', ');
+  $('#fpin').value = v.pinnedComment || '';
+  const cnt = (id, n, max) => { const el = $(id); el.textContent = `${n}/${max}`; el.classList.toggle('bad', n > max); };
+  cnt('#ctitle', [...v.title].length, 100); cnt('#cdesc', [...v.description].length, 5000); cnt('#ctags', v.tags.join(',').length, 500);
+  const vid = $('#dvideo'); vid.poster = v.thumbnail; vid.src = rel(v, v.files.video);
+  $('#dlinks').innerHTML = `
+    <a class="btn primary" href="${rel(v, v.files.bundle)}">⬇ Everything (.zip)</a>
+    <a class="btn" href="${rel(v, v.files.video)}">⬇ Video</a>
+    <a class="btn" href="${v.thumbnail}" download>⬇ Thumbnail</a>
+    <a class="btn" href="${v.srt}" download>⬇ .srt</a>
+    <a class="btn" href="${v.vtt}" download>⬇ .vtt</a>
+    <a class="btn" href="${v.txt}" download>⬇ Text</a>`;
+  $('#dlg').showModal();
+}
+</script>
+</body>
+</html>
