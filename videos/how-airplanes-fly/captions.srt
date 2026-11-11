@@ -1,0 +1,88 @@
+1
+00:00:00,333 --> 00:00:02,503
+A jumbo jet weighs hundreds of tons.
+
+2
+00:00:02,909 --> 00:00:04,419
+So how does it stay in the air?
+
+3
+00:00:04,684 --> 00:00:06,034
+The secret is in the wing.
+
+4
+00:00:06,340 --> 00:00:09,150
+A wing is curved on top
+and slightly flatter below.
+
+5
+00:00:09,521 --> 00:00:11,851
+And it is tilted a little
+upward as it moves.
+
+6
+00:00:12,242 --> 00:00:15,432
+As the wing cuts through the air,
+it pushes the air downward.
+
+7
+00:00:15,707 --> 00:00:18,777
+When the wing pushes air down,
+the air pushes the wing up.
+
+8
+00:00:19,003 --> 00:00:22,853
+The air above the wing also flows faster,
+and so presses less.
+
+9
+00:00:23,169 --> 00:00:25,439
+That difference in pressure
+lifts the wing too.
+
+10
+00:00:25,724 --> 00:00:26,694
+But there is a catch.
+
+11
+00:00:27,085 --> 00:00:30,155
+A wing makes lift only when
+air is rushing past it.
+
+12
+00:00:30,311 --> 00:00:33,141
+That is why a plane needs
+engines and a long runway.
+
+13
+00:00:33,472 --> 00:00:39,042
+At about 250 kilometres an hour, the
+wings take over, and the plane lifts off.
+
+14
+00:00:39,327 --> 00:00:42,277
+The first people to do this
+were two brothers from Ohio.
+
+15
+00:00:42,833 --> 00:00:44,063
+Orville and Wilbur Wright.
+
+16
+00:00:44,354 --> 00:00:49,864
+On 17 December 1903, at Kitty Hawk,
+their flyer rose into the air.
+
+17
+00:00:50,104 --> 00:00:54,394
+It stayed up for just twelve
+seconds and flew about 120 feet.
+
+18
+00:00:54,685 --> 00:00:56,855
+Today, planes cross oceans in hours.
+
+19
+00:00:57,201 --> 00:00:59,071
+All because of wings, air, and speed.
+

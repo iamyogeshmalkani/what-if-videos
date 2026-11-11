@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-02T13:32:35.000Z",
+  "updated": "2026-11-11T13:04:34.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -1447,6 +1447,385 @@
         "video": "what-if-taiwan-chips-cut-off.mp4",
         "bundle": "what-if-taiwan-chips-cut-off.zip",
         "source": "what-if-taiwan-chips-cut-off-source.zip"
+      }
+    },
+    {
+      "slug": "why-sky-is-blue",
+      "title": "Why is the sky blue? The real reason 🌤️",
+      "language": "en",
+      "category": "Education",
+      "duration": 62.17,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 24124745,
+      "description": "Sunlight looks white, so why is the sky blue? The answer is in how air scatters light.\n\n📌 Quick facts\n• Sunlight is a mix of all colours\n• Short waves (blue) scatter much more than long waves (red) off air molecules — called Rayleigh scattering, worked out by Lord Rayleigh in 1871\n• Violet scatters even more, but the sun gives off less of it, the air absorbs some and our eyes see it poorly\n• At sunset the light crosses more air, so the blue is scattered away and orange and red are left\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Did you know this? Tell us in the comments.\n\n#Shorts #Science #Sky #Explainer",
+      "tags": [
+        "why is the sky blue",
+        "rayleigh scattering",
+        "sky blue explained",
+        "why sunset is red",
+        "science explained",
+        "how light works",
+        "educational shorts",
+        "physics for kids",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Science",
+        "#Sky",
+        "#Explainer"
+      ],
+      "pinnedComment": "Did you know this? Tell us in the comments.",
+      "thumbnail": "videos/why-sky-is-blue/thumbnail.jpg",
+      "srt": "videos/why-sky-is-blue/captions.srt",
+      "vtt": "videos/why-sky-is-blue/captions.vtt",
+      "txt": "videos/why-sky-is-blue/youtube.txt",
+      "files": {
+        "video": "why-sky-is-blue.mp4",
+        "bundle": "why-sky-is-blue.zip",
+        "source": "why-sky-is-blue-source.zip"
+      }
+    },
+    {
+      "slug": "why-leap-years-exist",
+      "title": "Why do leap years exist? 📅",
+      "language": "en",
+      "category": "Education",
+      "duration": 69.2,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 29515350,
+      "description": "Why does February sometimes get an extra day? Because a year is not exactly 365 days.\n\n📌 Quick facts\n• Earth takes about 365.24 days to orbit the sun\n• Julius Caesar added a leap day every four years in 45 BC\n• That rule was about 11 minutes a year too long, so by the 1500s the calendar had drifted about ten days\n• Pope Gregory XIII fixed it in 1582: century years are leap years only if divisible by 400 (1900 was not, 2000 was)\n• Britain and India adopted the Gregorian calendar in 1752\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Do you know anyone born on 29 February? Tell us in the comments.\n\n#Shorts #LeapYear #History #Explainer",
+      "tags": [
+        "leap year",
+        "why leap years exist",
+        "leap day explained",
+        "gregorian calendar",
+        "julian calendar",
+        "calendar history",
+        "pope gregory",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#LeapYear",
+        "#History",
+        "#Explainer"
+      ],
+      "pinnedComment": "Do you know anyone born on 29 February? Tell us in the comments.",
+      "thumbnail": "videos/why-leap-years-exist/thumbnail.jpg",
+      "srt": "videos/why-leap-years-exist/captions.srt",
+      "vtt": "videos/why-leap-years-exist/captions.vtt",
+      "txt": "videos/why-leap-years-exist/youtube.txt",
+      "files": {
+        "video": "why-leap-years-exist.mp4",
+        "bundle": "why-leap-years-exist.zip",
+        "source": "why-leap-years-exist-source.zip"
+      }
+    },
+    {
+      "slug": "how-paper-was-invented",
+      "title": "How paper changed the world 📜",
+      "language": "en",
+      "category": "Education",
+      "duration": 61.98,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 31344703,
+      "description": "Before paper, writing was heavy, rare and expensive. Here is how paper was invented and how it travelled.\n\n📌 Quick facts\n• Cai Lun, a Chinese court official, is traditionally credited with presenting improved paper to the emperor around 105 AD, made from bark, hemp, rags and old fishing nets\n• Tradition says papermaking reached Samarkand after the Battle of Talas in 751, and Baghdad soon had paper mills\n• Paper mills opened in Spain by the 12th century, then Italy and the rest of Europe\n• Cheap paper made cheap books possible\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 What would you want to write on the first sheet of paper? Tell us in the comments.\n\n#Shorts #History #Paper #Explainer",
+      "tags": [
+        "history of paper",
+        "who invented paper",
+        "cai lun",
+        "paper invention",
+        "how paper was made",
+        "history explained",
+        "silk road history",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#History",
+        "#Paper",
+        "#Explainer"
+      ],
+      "pinnedComment": "What would you want to write on the first sheet of paper? Tell us in the comments.",
+      "thumbnail": "videos/how-paper-was-invented/thumbnail.jpg",
+      "srt": "videos/how-paper-was-invented/captions.srt",
+      "vtt": "videos/how-paper-was-invented/captions.vtt",
+      "txt": "videos/how-paper-was-invented/youtube.txt",
+      "files": {
+        "video": "how-paper-was-invented.mp4",
+        "bundle": "how-paper-was-invented.zip",
+        "source": "how-paper-was-invented-source.zip"
+      }
+    },
+    {
+      "slug": "how-vaccines-work",
+      "title": "How vaccines beat smallpox 💉",
+      "language": "en",
+      "category": "Education",
+      "duration": 63.38,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 29668494,
+      "description": "One disease killed an estimated 300 million people in the 20th century. This is how Edward Jenner started the fight back.\n\n📌 Quick facts\n• In May 1796 Edward Jenner used cowpox on eight-year-old James Phipps; the boy later did not fall ill when exposed to smallpox\n• The word vaccine comes from the Latin word for cow, vacca\n• A vaccine shows the immune system a harmless sign of the disease so the body remembers it\n• In 1980 the World Health Organization declared smallpox eradicated, the first human disease wiped out\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Did you know the word vaccine means cow? Tell us in the comments.\n\n#Shorts #Vaccines #History #Science",
+      "tags": [
+        "how vaccines work",
+        "edward jenner",
+        "smallpox",
+        "history of vaccines",
+        "smallpox eradicated",
+        "immune system explained",
+        "educational shorts",
+        "science explained",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Vaccines",
+        "#History",
+        "#Science"
+      ],
+      "pinnedComment": "Did you know the word vaccine means cow? Tell us in the comments.",
+      "thumbnail": "videos/how-vaccines-work/thumbnail.jpg",
+      "srt": "videos/how-vaccines-work/captions.srt",
+      "vtt": "videos/how-vaccines-work/captions.vtt",
+      "txt": "videos/how-vaccines-work/youtube.txt",
+      "files": {
+        "video": "how-vaccines-work.mp4",
+        "bundle": "how-vaccines-work.zip",
+        "source": "how-vaccines-work-source.zip"
+      }
+    },
+    {
+      "slug": "printing-press-story",
+      "title": "The machine that spread ideas: the printing press 📖",
+      "language": "en",
+      "category": "Education",
+      "duration": 61.43,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 30363657,
+      "description": "Five hundred years ago a single book could cost more than a house. Then Gutenberg's press changed everything.\n\n📌 Quick facts\n• Before about 1450, European books were copied by hand\n• Johannes Gutenberg developed movable metal type, oil-based ink and a press adapted from wine presses; his Bible was printed around 1455\n• Movable type had existed earlier in China and Korea\n• By 1500 Europe had printed millions of books\n• Martin Luther's arguments spread widely in print from 1517\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Which book changed your life? Tell us in the comments.\n\n#Shorts #History #Gutenberg #Explainer",
+      "tags": [
+        "printing press",
+        "gutenberg",
+        "history of printing",
+        "gutenberg bible",
+        "how books were made",
+        "history explained",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#History",
+        "#Gutenberg",
+        "#Explainer"
+      ],
+      "pinnedComment": "Which book changed your life? Tell us in the comments.",
+      "thumbnail": "videos/printing-press-story/thumbnail.jpg",
+      "srt": "videos/printing-press-story/captions.srt",
+      "vtt": "videos/printing-press-story/captions.vtt",
+      "txt": "videos/printing-press-story/youtube.txt",
+      "files": {
+        "video": "printing-press-story.mp4",
+        "bundle": "printing-press-story.zip",
+        "source": "printing-press-story-source.zip"
+      }
+    },
+    {
+      "slug": "why-moon-has-phases",
+      "title": "Why does the Moon change shape? 🌙",
+      "language": "en",
+      "category": "Education",
+      "duration": 60.68,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 24497642,
+      "description": "The Moon never changes shape. What changes is how much of its lit half we can see.\n\n📌 Quick facts\n• Half of the Moon is always lit by the sun\n• The phases cycle takes about 29.5 days\n• Earth's shadow causes lunar eclipses, not the phases\n• The Moon spins once per orbit, so we always see the same face; the far side is not permanently dark\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Which moon phase is your favourite? Tell us in the comments.\n\n#Shorts #Moon #Space #Explainer",
+      "tags": [
+        "moon phases",
+        "why does the moon change shape",
+        "moon phases explained",
+        "lunar eclipse",
+        "far side of the moon",
+        "space explained",
+        "astronomy for kids",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Moon",
+        "#Space",
+        "#Explainer"
+      ],
+      "pinnedComment": "Which moon phase is your favourite? Tell us in the comments.",
+      "thumbnail": "videos/why-moon-has-phases/thumbnail.jpg",
+      "srt": "videos/why-moon-has-phases/captions.srt",
+      "vtt": "videos/why-moon-has-phases/captions.vtt",
+      "txt": "videos/why-moon-has-phases/youtube.txt",
+      "files": {
+        "video": "why-moon-has-phases.mp4",
+        "bundle": "why-moon-has-phases.zip",
+        "source": "why-moon-has-phases-source.zip"
+      }
+    },
+    {
+      "slug": "how-airplanes-fly",
+      "title": "How do planes stay up? ✈️",
+      "language": "en",
+      "category": "Education",
+      "duration": 61.92,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 23134184,
+      "description": "A jumbo jet weighs hundreds of tons, so how does it stay in the air? The secret is the wing.\n\n📌 Quick facts\n• A tilted, curved wing pushes air downward, and the air pushes the wing up\n• Faster air above the wing means lower pressure there, which also helps lift\n• Lift only works with air moving past the wing, so planes need engines and a runway\n• On 17 December 1903 the Wright brothers' first flight at Kitty Hawk lasted 12 seconds and covered about 120 feet\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Would you ride in the very first airplane? Tell us in the comments.\n\n#Shorts #Aviation #Science #Explainer",
+      "tags": [
+        "how do planes fly",
+        "how airplanes fly",
+        "lift explained",
+        "wright brothers",
+        "how wings work",
+        "aerodynamics",
+        "physics explained",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Aviation",
+        "#Science",
+        "#Explainer"
+      ],
+      "pinnedComment": "Would you ride in the very first airplane? Tell us in the comments.",
+      "thumbnail": "videos/how-airplanes-fly/thumbnail.jpg",
+      "srt": "videos/how-airplanes-fly/captions.srt",
+      "vtt": "videos/how-airplanes-fly/captions.vtt",
+      "txt": "videos/how-airplanes-fly/youtube.txt",
+      "files": {
+        "video": "how-airplanes-fly.mp4",
+        "bundle": "how-airplanes-fly.zip",
+        "source": "how-airplanes-fly-source.zip"
+      }
+    },
+    {
+      "slug": "indus-valley-civilization",
+      "title": "The forgotten city of the Indus Valley 🏺",
+      "language": "en",
+      "category": "Education",
+      "duration": 71.32,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 38166807,
+      "description": "Four and a half thousand years ago a city had drains in every street. Meet the Indus Valley Civilization.\n\n📌 Quick facts\n• From about 2600 BC it spread across present-day Pakistan and north-west India\n• Cities such as Harappa and Mohenjo-daro had grid streets, baked-brick houses, drains and standard weights\n• Lothal in Gujarat has a dockyard-like structure\n• Its script has still not been deciphered\n• The cities declined from about 1900 BC; the causes are debated, and they were rediscovered in the 1920s\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Which Indus Valley fact surprised you most? Tell us in the comments.\n\n#Shorts #IndusValley #AncientIndia #History",
+      "tags": [
+        "indus valley civilization",
+        "harappa",
+        "mohenjo daro",
+        "ancient india",
+        "harappan civilization",
+        "indian history",
+        "lothal",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#IndusValley",
+        "#AncientIndia",
+        "#History"
+      ],
+      "pinnedComment": "Which Indus Valley fact surprised you most? Tell us in the comments.",
+      "thumbnail": "videos/indus-valley-civilization/thumbnail.jpg",
+      "srt": "videos/indus-valley-civilization/captions.srt",
+      "vtt": "videos/indus-valley-civilization/captions.vtt",
+      "txt": "videos/indus-valley-civilization/youtube.txt",
+      "files": {
+        "video": "indus-valley-civilization.mp4",
+        "bundle": "indus-valley-civilization.zip",
+        "source": "indus-valley-civilization-source.zip"
+      }
+    },
+    {
+      "slug": "history-of-chess",
+      "title": "How chess travelled from India to the world ♟️",
+      "language": "en",
+      "category": "Education",
+      "duration": 58.98,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 27571998,
+      "description": "Did you know chess was invented in India? Here is how chaturanga became the game we play today.\n\n📌 Quick facts\n• Chess began in India about 1,500 years ago as chaturanga, named for four divisions of an army\n• In Persia it became shatranj, and checkmate comes from the Persian shah mat, roughly 'the king is helpless'\n• Arab traders carried it to Spain and Europe, and it was popular in Europe by about the year 1000\n• Elephants became bishops and chariots became rooks; the queen turned powerful around 1475\n• Today hundreds of millions of people play (estimates vary)\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 Do you play chess? Tell us in the comments.\n\n#Shorts #Chess #History #India",
+      "tags": [
+        "history of chess",
+        "chess origin",
+        "chaturanga",
+        "who invented chess",
+        "chess india",
+        "checkmate meaning",
+        "indian history",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Chess",
+        "#History",
+        "#India"
+      ],
+      "pinnedComment": "Do you play chess? Tell us in the comments.",
+      "thumbnail": "videos/history-of-chess/thumbnail.jpg",
+      "srt": "videos/history-of-chess/captions.srt",
+      "vtt": "videos/history-of-chess/captions.vtt",
+      "txt": "videos/history-of-chess/youtube.txt",
+      "files": {
+        "video": "history-of-chess.mp4",
+        "bundle": "history-of-chess.zip",
+        "source": "history-of-chess-source.zip"
+      }
+    },
+    {
+      "slug": "why-we-say-tea-or-chai",
+      "title": "Why do we say tea or chai? 🍵",
+      "language": "en",
+      "category": "Education",
+      "duration": 51.97,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 28567647,
+      "description": "Almost every language says tea in one of two ways. The reason is how tea travelled.\n\n📌 Quick facts\n• Overland across the Silk Road, the Chinese word cha spread: Persian chay, Turkish çay, Russian chay, Hindi chai\n• By sea from Fujian, the word te was carried to Europe by Dutch traders in the early 1600s: English tea, German Tee, French thé\n• Portugal is the exception: its traders bought from Macau, where the word was cha, so they say chá\n• Rule of thumb: ch means it travelled by land, t means by sea\nFigures are approximate; see the sources before relying on a date.\n\n🎬 Follow for more short educational explainers.\n\n💬 What do you call tea in your language? Tell us in the comments.\n\n#Shorts #Tea #Chai #Languages",
+      "tags": [
+        "tea or chai",
+        "why is it called chai",
+        "word origin tea",
+        "history of tea",
+        "silk road",
+        "etymology",
+        "languages explained",
+        "educational shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Tea",
+        "#Chai",
+        "#Languages"
+      ],
+      "pinnedComment": "What do you call tea in your language? Tell us in the comments.",
+      "thumbnail": "videos/why-we-say-tea-or-chai/thumbnail.jpg",
+      "srt": "videos/why-we-say-tea-or-chai/captions.srt",
+      "vtt": "videos/why-we-say-tea-or-chai/captions.vtt",
+      "txt": "videos/why-we-say-tea-or-chai/youtube.txt",
+      "files": {
+        "video": "why-we-say-tea-or-chai.mp4",
+        "bundle": "why-we-say-tea-or-chai.zip",
+        "source": "why-we-say-tea-or-chai-source.zip"
       }
     }
   ]

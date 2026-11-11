@@ -1,0 +1,88 @@
+1
+00:00:00,333 --> 00:00:05,013
+One disease killed an estimated three
+hundred million people in the twentieth
+
+2
+00:00:05,013 --> 00:00:06,123
+century alone.
+
+3
+00:00:06,414 --> 00:00:07,884
+That disease was smallpox.
+
+4
+00:00:08,229 --> 00:00:10,619
+For centuries, no one knew how to stop it.
+
+5
+00:00:10,810 --> 00:00:13,740
+Then an English country doctor
+noticed something strange.
+
+6
+00:00:14,121 --> 00:00:18,291
+Milkmaids who caught the mild cowpox
+did not seem to catch smallpox.
+
+7
+00:00:18,642 --> 00:00:20,112
+His name was Edward Jenner.
+
+8
+00:00:20,467 --> 00:00:25,437
+In May 1796, he took a tiny bit
+of cowpox from a milkmaid's sore.
+
+9
+00:00:25,733 --> 00:00:29,323
+He put it on a scratch on an
+eight-year-old boy, James Phipps.
+
+10
+00:00:29,444 --> 00:00:31,874
+The boy had a mild illness,
+and then recovered.
+
+11
+00:00:32,224 --> 00:00:34,914
+Weeks later,
+Jenner exposed him to smallpox.
+
+12
+00:00:35,270 --> 00:00:36,680
+The boy did not fall ill.
+
+13
+00:00:36,936 --> 00:00:40,526
+The body had learned to fight it,
+without suffering the real disease.
+
+14
+00:00:41,077 --> 00:00:43,167
+That is how every vaccine works today.
+
+15
+00:00:43,467 --> 00:00:46,737
+It shows your immune system
+a harmless sign of the enemy.
+
+16
+00:00:47,018 --> 00:00:49,028
+Your body remembers it, and is ready.
+
+17
+00:00:49,359 --> 00:00:52,649
+The word vaccine even comes
+from the Latin word for cow.
+
+18
+00:00:52,959 --> 00:00:57,369
+In 1980, the World Health
+Organization declared smallpox gone.
+
+19
+00:00:57,760 --> 00:01:00,710
+It is the first human
+disease we ever wiped out.
+

@@ -1,0 +1,100 @@
+1
+00:00:00,333 --> 00:00:01,443
+Sunlight looks white.
+
+2
+00:00:01,749 --> 00:00:03,179
+So why is the sky blue?
+
+3
+00:00:03,464 --> 00:00:05,834
+The answer is hiding
+inside the light itself.
+
+4
+00:00:06,205 --> 00:00:09,555
+White light is really a mix of
+every colour, squeezed together.
+
+5
+00:00:09,861 --> 00:00:13,351
+When sunlight enters our air,
+it hits tiny gas molecules.
+
+6
+00:00:13,817 --> 00:00:16,707
+Those molecules bounce the
+light in every direction.
+
+7
+00:00:16,937 --> 00:00:18,207
+This is called scattering.
+
+8
+00:00:18,543 --> 00:00:21,033
+But short waves scatter
+far more than long ones.
+
+9
+00:00:21,309 --> 00:00:22,839
+Blue light has a short wave.
+
+10
+00:00:23,159 --> 00:00:24,549
+Red light has a long one.
+
+11
+00:00:24,765 --> 00:00:27,085
+So blue gets thrown all around the sky,
+
+12
+00:00:27,085 --> 00:00:29,975
+and reaches your eyes
+from every direction.
+
+13
+00:00:30,191 --> 00:00:31,181
+What about violet?
+
+14
+00:00:31,522 --> 00:00:32,852
+It scatters even more.
+
+15
+00:00:33,142 --> 00:00:37,832
+But the sun gives off less of it, the air
+absorbs some, and our eyes see it poorly.
+
+16
+00:00:38,173 --> 00:00:39,143
+So we see blue.
+
+17
+00:00:39,519 --> 00:00:42,189
+At sunset, the light has
+to cross much more air.
+
+18
+00:00:42,459 --> 00:00:45,389
+Most of the blue is scattered
+away before it reaches you.
+
+19
+00:00:45,595 --> 00:00:47,345
+What is left is orange and red.
+
+20
+00:00:47,631 --> 00:00:51,901
+In 1871, Lord Rayleigh worked
+out the maths of all this.
+
+21
+00:00:52,196 --> 00:00:55,546
+And no, the sky is not blue
+because it reflects the ocean.
+
+22
+00:00:55,852 --> 00:00:59,402
+Next time you look up, you are seeing
+sunlight, scattered by the air.
+
