@@ -1,9 +1,9 @@
 # What if videos
 
-45 short videos (35 "What if...?" map videos and 10 educational explainers), each with a thumbnail, captions and a YouTube-ready title, description and tags.
+51 short videos (35 "What if...?" map videos, 6 "What if...?" low-poly island films and 10 educational explainers), each with a thumbnail, captions and a YouTube-ready title, description and tags.
 
 - Page: https://iamyogeshmalkani.github.io/what-if-videos/
 - Files: the Releases page, tag `videos`. For every video there is `<name>.mp4`, `<name>.zip` (video, thumbnail, .srt, .vtt and a text file with the title, description and tags) and `<name>-source.zip` (script and scenes, to make the video again).
 - `videos/<name>/` holds the thumbnail, captions and text for each video.
 
-Made with explainroo (`scripts/youtube-hub.mjs`).
+Made with explainroo (`scripts/youtube-hub.mjs`). The island films are drawn in code with Lemo-Opuscar (Low-poly Isometric Island style, Kokoro voice).
