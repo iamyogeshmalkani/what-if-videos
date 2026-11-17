@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T19:13:10.000Z",
+  "updated": "2026-11-17T19:14:00.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2674,6 +2674,47 @@
         "video": "what-if-india-had-only-500-million-people.mp4",
         "bundle": "what-if-india-had-only-500-million-people.zip",
         "source": "what-if-india-had-only-500-million-people-source.zip"
+      }
+    },
+    {
+      "slug": "mind-traps-4-sunk-cost-trap",
+      "title": "Why You Keep Doing Things You Don't Even Enjoy 🧠",
+      "language": "en",
+      "category": "Education",
+      "duration": 36.27,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 5317855,
+      "description": "Have you ever finished a terrible movie just because you paid for the ticket?\n\nCongratulations, you've experienced the sunk cost fallacy: continuing something simply because you've already invested time, money or effort into it. Imagine buying an expensive online course and realising after two lessons that it's useless, but forcing yourself to finish because you already paid. The money is already gone, and continuing won't bring it back. Sometimes the smartest decision is knowing when to walk away.\n\n📌 Quick facts\n• The sunk cost fallacy is continuing something because of past investment\n• The money or time already spent is gone either way\n• Judge a choice by what happens next, not by what you already spent\n• Mind Traps #4\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 What's something you've continued only because you had already invested too much in it? Tell us in the comments.\n\n#Shorts #MindTraps #SunkCost #Psychology #Explainer",
+      "tags": [
+        "sunk cost fallacy",
+        "mind traps",
+        "psychology",
+        "cognitive bias",
+        "decision making",
+        "behavioral economics",
+        "productivity",
+        "mindset",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#MindTraps",
+        "#SunkCost",
+        "#Psychology",
+        "#Explainer"
+      ],
+      "pinnedComment": "What's something you've continued only because you had already invested too much in it? Tell us in the comments.",
+      "thumbnail": "videos/mind-traps-4-sunk-cost-trap/thumbnail.jpg",
+      "srt": "videos/mind-traps-4-sunk-cost-trap/captions.srt",
+      "vtt": "videos/mind-traps-4-sunk-cost-trap/captions.vtt",
+      "txt": "videos/mind-traps-4-sunk-cost-trap/youtube.txt",
+      "files": {
+        "video": "mind-traps-4-sunk-cost-trap.mp4",
+        "bundle": "mind-traps-4-sunk-cost-trap.zip",
+        "source": "mind-traps-4-sunk-cost-trap-source.zip"
       }
     }
   ]
