@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:24:33.000Z",
+  "updated": "2026-11-17T18:30:00.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2264,6 +2264,47 @@
         "video": "what-if-red-sea-route-closed-forever.mp4",
         "bundle": "what-if-red-sea-route-closed-forever.zip",
         "source": "what-if-red-sea-route-closed-forever-source.zip"
+      }
+    },
+    {
+      "slug": "what-if-english-vanished-from-india",
+      "title": "What if English Disappeared From India Tomorrow? 🗣️",
+      "language": "en",
+      "category": "Education",
+      "duration": 39.23,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 34658856,
+      "description": "Imagine waking up tomorrow and nobody in India could speak English.\n\nEnglish is deeply embedded in courts, universities, international business and millions of workplaces. Government communication, legal documents and technical education would need major adjustments. But India wouldn't become silent: we have hundreds of languages, each with its own history and identity. The real challenge would be replacing one common communication bridge across so many communities.\n\n📌 Quick facts\n• English is used in courts, universities, businesses and workplaces\n• India has hundreds of languages\n• Languages shown on the map (Hindi, Bengali, Tamil and others) are examples\n• A thought experiment, not a prediction\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Would India become more united through its regional languages, or would communication become harder? Tell us in the comments.\n\n#Shorts #WhatIf #English #IndianLanguages #Explainer",
+      "tags": [
+        "what if",
+        "english in india",
+        "indian languages",
+        "what if english disappeared",
+        "hindi tamil bengali",
+        "india explained",
+        "language in india",
+        "what would happen if",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#WhatIf",
+        "#English",
+        "#IndianLanguages",
+        "#Explainer"
+      ],
+      "pinnedComment": "Would India become more united through its regional languages, or would communication become harder? Tell us in the comments.",
+      "thumbnail": "videos/what-if-english-vanished-from-india/thumbnail.jpg",
+      "srt": "videos/what-if-english-vanished-from-india/captions.srt",
+      "vtt": "videos/what-if-english-vanished-from-india/captions.vtt",
+      "txt": "videos/what-if-english-vanished-from-india/youtube.txt",
+      "files": {
+        "video": "what-if-english-vanished-from-india.mp4",
+        "bundle": "what-if-english-vanished-from-india.zip",
+        "source": "what-if-english-vanished-from-india-source.zip"
       }
     }
   ]
