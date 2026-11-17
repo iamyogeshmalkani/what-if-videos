@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:16:36.000Z",
+  "updated": "2026-11-17T18:20:11.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2181,6 +2181,47 @@
         "video": "what-if-india-china-stopped-trading.mp4",
         "bundle": "what-if-india-china-stopped-trading.zip",
         "source": "what-if-india-china-stopped-trading-source.zip"
+      }
+    },
+    {
+      "slug": "why-delhi-turns-grey-every-november",
+      "title": "Why Does Delhi Turn Grey Every November? 🌫️",
+      "language": "en",
+      "category": "Education",
+      "duration": 36.93,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 14112039,
+      "description": "Every November, Delhi seems to disappear under a blanket of pollution. But why?\n\nIt's not just stubble burning. Delhi already has pollution from vehicles, industries, construction dust and other sources. When winter arrives, wind speeds often decrease and the atmosphere disperses pollutants less well, and a temperature inversion can trap polluted air close to the ground. Add seasonal crop-residue burning and the problem gets much worse.\n\n📌 Quick facts\n• Delhi's pollution comes from vehicles, industry, construction dust and more\n• In winter, winds often slow down and the air disperses pollutants less well\n• A temperature inversion can trap polluted air near the ground\n• Crop-residue burning adds to the problem in the season\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Is Delhi's pollution mainly caused by stubble burning, or is the problem much bigger? Tell us in the comments.\n\n#Shorts #Delhi #AirPollution #DelhiSmog #Explainer",
+      "tags": [
+        "delhi pollution",
+        "delhi air quality",
+        "delhi smog",
+        "stubble burning",
+        "temperature inversion",
+        "november pollution",
+        "air pollution india",
+        "why delhi is grey",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Delhi",
+        "#AirPollution",
+        "#DelhiSmog",
+        "#Explainer"
+      ],
+      "pinnedComment": "Is Delhi's pollution mainly caused by stubble burning, or is the problem much bigger? Tell us in the comments.",
+      "thumbnail": "videos/why-delhi-turns-grey-every-november/thumbnail.jpg",
+      "srt": "videos/why-delhi-turns-grey-every-november/captions.srt",
+      "vtt": "videos/why-delhi-turns-grey-every-november/captions.vtt",
+      "txt": "videos/why-delhi-turns-grey-every-november/youtube.txt",
+      "files": {
+        "video": "why-delhi-turns-grey-every-november.mp4",
+        "bundle": "why-delhi-turns-grey-every-november.zip",
+        "source": "why-delhi-turns-grey-every-november-source.zip"
       }
     }
   ]
