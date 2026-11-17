@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:51:54.000Z",
+  "updated": "2026-11-17T18:59:57.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2509,6 +2509,48 @@
         "video": "if-indian-states-were-countries-richest.mp4",
         "bundle": "if-indian-states-were-countries-richest.zip",
         "source": "if-indian-states-were-countries-richest-source.zip"
+      }
+    },
+    {
+      "slug": "why-nepal-floods-affect-india",
+      "title": "Why Do Nepal's Floods Affect India? 🌊",
+      "language": "en",
+      "category": "Education",
+      "duration": 37.17,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 36283833,
+      "description": "Heavy rainfall in Nepal can cause rivers in India to rise thousands of kilometres downstream.\n\nMany rivers that start in the Himalayas flow from Nepal into India, including the Kosi, Gandak and Karnali. During intense monsoon rain they can carry enormous amounts of water downstream, and if their levels rise quickly, communities in northern India can face serious flooding. Floods aren't limited by international borders: what happens upstream can directly affect people downstream.\n\n📌 Quick facts\n• The Kosi, Gandak and Karnali flow from Nepal into India\n• Intense monsoon rain can send huge volumes of water downstream\n• Communities in northern India can face serious flooding\n• River positions on the map are approximate\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Should India and Nepal manage their rivers together? What do you think? Tell us in the comments.\n\n#Shorts #Floods #IndiaNepal #Rivers #Explainer",
+      "tags": [
+        "nepal floods",
+        "india floods",
+        "kosi river",
+        "gandak river",
+        "karnali river",
+        "monsoon flooding",
+        "himalayan rivers",
+        "bihar floods",
+        "india nepal rivers",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Floods",
+        "#IndiaNepal",
+        "#Rivers",
+        "#Explainer"
+      ],
+      "pinnedComment": "Should India and Nepal manage their rivers together? What do you think? Tell us in the comments.",
+      "thumbnail": "videos/why-nepal-floods-affect-india/thumbnail.jpg",
+      "srt": "videos/why-nepal-floods-affect-india/captions.srt",
+      "vtt": "videos/why-nepal-floods-affect-india/captions.vtt",
+      "txt": "videos/why-nepal-floods-affect-india/youtube.txt",
+      "files": {
+        "video": "why-nepal-floods-affect-india.mp4",
+        "bundle": "why-nepal-floods-affect-india.zip",
+        "source": "why-nepal-floods-affect-india-source.zip"
       }
     }
   ]
