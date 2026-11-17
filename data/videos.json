@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:04:58.000Z",
+  "updated": "2026-11-17T18:09:09.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2097,6 +2097,48 @@
         "video": "what-if-malacca-strait-disappeared.mp4",
         "bundle": "what-if-malacca-strait-disappeared.zip",
         "source": "what-if-malacca-strait-disappeared-source.zip"
+      }
+    },
+    {
+      "slug": "indus-valley-city-modern-drainage",
+      "title": "This Ancient Indian City Had Something Modern Cities Still Struggle With 🏺",
+      "language": "en",
+      "category": "Education",
+      "duration": 35.1,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 16054815,
+      "description": "4,500 years ago, this city had a drainage system that would surprise you even today.\n\nThis is Mohenjo-daro, one of the greatest cities of the ancient Indus Valley Civilisation. It had carefully planned streets, houses connected to drainage systems, covered drains running alongside roads, and many houses even had bathing areas. It was an organised urban civilisation, and much of its engineering is still being studied today.\n\n📌 Quick facts\n• Mohenjo-daro is an Indus Valley Civilisation city, about 4,500 years old\n• Planned streets, house drains and covered drains along roads are well documented\n• Many houses had bathing areas\n• The plan shown on screen is a simplified drawing, not a survey\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 How advanced do you think this civilisation really was? Tell us in the comments.\n\n#Shorts #IndusValley #MohenjoDaro #AncientIndia #History",
+      "tags": [
+        "mohenjo daro",
+        "indus valley civilisation",
+        "ancient india",
+        "ancient drainage",
+        "harappan",
+        "ancient city",
+        "sindh",
+        "history of india",
+        "town planning",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#IndusValley",
+        "#MohenjoDaro",
+        "#AncientIndia",
+        "#History"
+      ],
+      "pinnedComment": "How advanced do you think this civilisation really was? Tell us in the comments.",
+      "thumbnail": "videos/indus-valley-city-modern-drainage/thumbnail.jpg",
+      "srt": "videos/indus-valley-city-modern-drainage/captions.srt",
+      "vtt": "videos/indus-valley-city-modern-drainage/captions.vtt",
+      "txt": "videos/indus-valley-city-modern-drainage/youtube.txt",
+      "files": {
+        "video": "indus-valley-city-modern-drainage.mp4",
+        "bundle": "indus-valley-city-modern-drainage.zip",
+        "source": "indus-valley-city-modern-drainage-source.zip"
       }
     }
   ]
