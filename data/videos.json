@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:30:00.000Z",
+  "updated": "2026-11-17T18:34:14.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2305,6 +2305,46 @@
         "video": "what-if-english-vanished-from-india.mp4",
         "bundle": "what-if-english-vanished-from-india.zip",
         "source": "what-if-english-vanished-from-india-source.zip"
+      }
+    },
+    {
+      "slug": "what-if-india-became-5c-colder",
+      "title": "What if India Became 5°C Colder Overnight? ❄️",
+      "language": "en",
+      "category": "Education",
+      "duration": 38.93,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 28771988,
+      "description": "India got 5 degrees hotter. But imagine if the entire country became 5 degrees colder!\n\nCities like Delhi could face much harsher winters, and places that already see snow could get even more extreme cold. Agriculture could change dramatically: some crops might benefit from cooler conditions while others face frost damage. Heating demand would rise, transport could be disrupted in colder regions, and ecosystems would have to adapt. Five degrees sounds small, but across a whole country it's enormous.\n\n📌 Quick facts\n• A thought experiment: every part of India 5°C colder\n• Harsher winters in the north, more extreme cold where it already snows\n• Some crops could benefit, others could face frost damage\n• More energy for heating, possible transport disruption\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Where in India would you feel a 5°C drop the most? Tell us in the comments.\n\n#Shorts #WhatIf #Climate #India #Explainer",
+      "tags": [
+        "what if",
+        "india colder",
+        "5 degrees colder",
+        "indian winter",
+        "climate india",
+        "agriculture india",
+        "what would happen if",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#WhatIf",
+        "#Climate",
+        "#India",
+        "#Explainer"
+      ],
+      "pinnedComment": "Where in India would you feel a 5°C drop the most? Tell us in the comments.",
+      "thumbnail": "videos/what-if-india-became-5c-colder/thumbnail.jpg",
+      "srt": "videos/what-if-india-became-5c-colder/captions.srt",
+      "vtt": "videos/what-if-india-became-5c-colder/captions.vtt",
+      "txt": "videos/what-if-india-became-5c-colder/youtube.txt",
+      "files": {
+        "video": "what-if-india-became-5c-colder.mp4",
+        "bundle": "what-if-india-became-5c-colder.zip",
+        "source": "what-if-india-became-5c-colder-source.zip"
       }
     }
   ]
