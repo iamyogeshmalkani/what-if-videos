@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:34:14.000Z",
+  "updated": "2026-11-17T18:38:42.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2345,6 +2345,47 @@
         "video": "what-if-india-became-5c-colder.mp4",
         "bundle": "what-if-india-became-5c-colder.zip",
         "source": "what-if-india-became-5c-colder-source.zip"
+      }
+    },
+    {
+      "slug": "what-if-sundarbans-vanished",
+      "title": "What if the Sundarbans Vanished Tomorrow? 🌿",
+      "language": "en",
+      "category": "Education",
+      "duration": 37.67,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 11409803,
+      "description": "What if India's natural shield against coastal storms suddenly disappeared?\n\nThis is the Sundarbans, the world's largest mangrove forest, shared by India and Bangladesh and home to the famous Royal Bengal Tiger. Its roots help stabilise shorelines, trap sediments and reduce the impact of waves and storm surges. Without the mangroves, coastal communities could become more vulnerable to erosion, flooding and storms.\n\n📌 Quick facts\n• The Sundarbans is the world's largest mangrove forest, shared by India and Bangladesh\n• It is home to the Royal Bengal Tiger\n• Mangrove roots stabilise shorelines, trap sediment and soften waves and storm surges\n• The cross-section drawing is a simplified illustration\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Would you protect this forest even if it meant limiting development? Tell us in the comments.\n\n#Shorts #WhatIf #Sundarbans #Mangroves #Explainer",
+      "tags": [
+        "what if",
+        "sundarbans",
+        "mangrove forest",
+        "royal bengal tiger",
+        "coastal protection",
+        "storm surge",
+        "bay of bengal",
+        "what would happen if",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#WhatIf",
+        "#Sundarbans",
+        "#Mangroves",
+        "#Explainer"
+      ],
+      "pinnedComment": "Would you protect this forest even if it meant limiting development? Tell us in the comments.",
+      "thumbnail": "videos/what-if-sundarbans-vanished/thumbnail.jpg",
+      "srt": "videos/what-if-sundarbans-vanished/captions.srt",
+      "vtt": "videos/what-if-sundarbans-vanished/captions.vtt",
+      "txt": "videos/what-if-sundarbans-vanished/youtube.txt",
+      "files": {
+        "video": "what-if-sundarbans-vanished.mp4",
+        "bundle": "what-if-sundarbans-vanished.zip",
+        "source": "what-if-sundarbans-vanished-source.zip"
       }
     }
   ]
