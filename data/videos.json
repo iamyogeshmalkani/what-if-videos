@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:48:03.000Z",
+  "updated": "2026-11-17T18:51:54.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2468,6 +2468,47 @@
         "video": "what-if-bengaluru-ran-out-of-water.mp4",
         "bundle": "what-if-bengaluru-ran-out-of-water.zip",
         "source": "what-if-bengaluru-ran-out-of-water-source.zip"
+      }
+    },
+    {
+      "slug": "if-indian-states-were-countries-richest",
+      "title": "If Indian States Were Countries, Which Would Be the Richest? 💰",
+      "language": "en",
+      "category": "Education",
+      "duration": 35.73,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 28550216,
+      "description": "If every Indian state became an independent country, one would have India's biggest state economy.\n\nLet's rank them by total economic output, not income per person. That is called Gross State Domestic Product, or GSDP. Maharashtra would be a major contender for the top spot, with an economy that includes finance, manufacturing, services, entertainment and major industrial centres, and Mumbai alone is one of India's most important financial hubs. But a state's total economy doesn't tell us how wealthy each person living there is.\n\n📌 Quick facts\n• Ranking is by total output (GSDP), not income per person\n• Maharashtra is a major contender for the top spot\n• Mumbai is one of India's most important financial hubs\n• No GSDP figures are shown in this video\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Which state should we compare next: Gujarat, Tamil Nadu or Karnataka? Tell us in the comments.\n\n#Shorts #IndianStates #GSDP #Maharashtra #Explainer",
+      "tags": [
+        "indian states",
+        "richest state in india",
+        "gsdp",
+        "maharashtra economy",
+        "mumbai",
+        "state economies",
+        "indian economy",
+        "if states were countries",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#IndianStates",
+        "#GSDP",
+        "#Maharashtra",
+        "#Explainer"
+      ],
+      "pinnedComment": "Which state should we compare next: Gujarat, Tamil Nadu or Karnataka? Tell us in the comments.",
+      "thumbnail": "videos/if-indian-states-were-countries-richest/thumbnail.jpg",
+      "srt": "videos/if-indian-states-were-countries-richest/captions.srt",
+      "vtt": "videos/if-indian-states-were-countries-richest/captions.vtt",
+      "txt": "videos/if-indian-states-were-countries-richest/youtube.txt",
+      "files": {
+        "video": "if-indian-states-were-countries-richest.mp4",
+        "bundle": "if-indian-states-were-countries-richest.zip",
+        "source": "if-indian-states-were-countries-richest-source.zip"
       }
     }
   ]
