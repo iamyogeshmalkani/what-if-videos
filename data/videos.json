@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:20:11.000Z",
+  "updated": "2026-11-17T18:24:33.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2222,6 +2222,48 @@
         "video": "why-delhi-turns-grey-every-november.mp4",
         "bundle": "why-delhi-turns-grey-every-november.zip",
         "source": "why-delhi-turns-grey-every-november-source.zip"
+      }
+    },
+    {
+      "slug": "what-if-red-sea-route-closed-forever",
+      "title": "What if the Red Sea Shipping Route Closed Forever? 🚢",
+      "language": "en",
+      "category": "Education",
+      "duration": 37.87,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 43011052,
+      "description": "A sea route thousands of kilometres away could make your online shopping more expensive.\n\nThe Red Sea is connected to the Mediterranean through the Suez Canal, one of the shortest shipping routes between Asia and Europe. If ships could no longer use it, they might have to sail around the Cape of Good Hope in southern Africa, thousands of extra kilometres. Longer journeys mean more fuel, higher shipping costs and possible delays in global trade.\n\n📌 Quick facts\n• The Red Sea connects to the Mediterranean through the Suez Canal\n• It is one of the shortest sea routes between Asia and Europe\n• The alternative is around the Cape of Good Hope, thousands of kilometres longer\n• More fuel, higher costs and delays are the likely results\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Would you pay more for online shopping if a sea route closed? Tell us in the comments.\n\n#Shorts #WhatIf #RedSea #SuezCanal #Explainer",
+      "tags": [
+        "what if",
+        "red sea",
+        "suez canal",
+        "shipping route",
+        "cape of good hope",
+        "global trade",
+        "supply chain",
+        "asia europe shipping",
+        "what would happen if",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#WhatIf",
+        "#RedSea",
+        "#SuezCanal",
+        "#Explainer"
+      ],
+      "pinnedComment": "Would you pay more for online shopping if a sea route closed? Tell us in the comments.",
+      "thumbnail": "videos/what-if-red-sea-route-closed-forever/thumbnail.jpg",
+      "srt": "videos/what-if-red-sea-route-closed-forever/captions.srt",
+      "vtt": "videos/what-if-red-sea-route-closed-forever/captions.vtt",
+      "txt": "videos/what-if-red-sea-route-closed-forever/youtube.txt",
+      "files": {
+        "video": "what-if-red-sea-route-closed-forever.mp4",
+        "bundle": "what-if-red-sea-route-closed-forever.zip",
+        "source": "what-if-red-sea-route-closed-forever-source.zip"
       }
     }
   ]
