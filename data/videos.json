@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:38:42.000Z",
+  "updated": "2026-11-17T18:43:40.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2386,6 +2386,47 @@
         "video": "what-if-sundarbans-vanished.mp4",
         "bundle": "what-if-sundarbans-vanished.zip",
         "source": "what-if-sundarbans-vanished-source.zip"
+      }
+    },
+    {
+      "slug": "why-india-east-coast-faces-more-cyclones",
+      "title": "Why Does India's East Coast Face More Cyclones? 🌀",
+      "language": "en",
+      "category": "Education",
+      "duration": 37.87,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 33160451,
+      "description": "India has two massive coastlines. So why does one face cyclones more often?\n\nThe eastern coastline faces the Bay of Bengal and the western coastline faces the Arabian Sea, and both can produce dangerous cyclones. But historically the Bay of Bengal has been more favourable for cyclones to form and intensify, with warm waters and atmospheric conditions that fuel powerful storms. That's why Odisha, West Bengal, Andhra Pradesh and Tamil Nadu have faced many destructive cyclones.\n\n📌 Quick facts\n• The east coast faces the Bay of Bengal, the west coast the Arabian Sea\n• Both seas can produce cyclones\n• Historically the Bay of Bengal has been more favourable for cyclone formation and intensification\n• Odisha, West Bengal, Andhra Pradesh and Tamil Nadu are among the states affected\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Which coastal state do you think is most vulnerable to cyclones? Tell us in the comments.\n\n#Shorts #Cyclone #BayOfBengal #India #Explainer",
+      "tags": [
+        "cyclones india",
+        "bay of bengal cyclone",
+        "arabian sea cyclone",
+        "east coast india",
+        "odisha cyclone",
+        "cyclone formation",
+        "why cyclones hit east coast",
+        "india geography",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#Cyclone",
+        "#BayOfBengal",
+        "#India",
+        "#Explainer"
+      ],
+      "pinnedComment": "Which coastal state do you think is most vulnerable to cyclones? Tell us in the comments.",
+      "thumbnail": "videos/why-india-east-coast-faces-more-cyclones/thumbnail.jpg",
+      "srt": "videos/why-india-east-coast-faces-more-cyclones/captions.srt",
+      "vtt": "videos/why-india-east-coast-faces-more-cyclones/captions.vtt",
+      "txt": "videos/why-india-east-coast-faces-more-cyclones/youtube.txt",
+      "files": {
+        "video": "why-india-east-coast-faces-more-cyclones.mp4",
+        "bundle": "why-india-east-coast-faces-more-cyclones.zip",
+        "source": "why-india-east-coast-faces-more-cyclones-source.zip"
       }
     }
   ]
