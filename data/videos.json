@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-12T09:59:40.000Z",
+  "updated": "2026-11-17T18:04:58.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2054,6 +2054,49 @@
         "video": "what-if-it-never-rained-again.mp4",
         "bundle": "what-if-it-never-rained-again.zip",
         "source": "what-if-it-never-rained-again-source.zip"
+      }
+    },
+    {
+      "slug": "what-if-malacca-strait-disappeared",
+      "title": "What if the Strait of Malacca Disappeared? 🚢",
+      "language": "en",
+      "category": "Education",
+      "duration": 36.5,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 32218193,
+      "description": "What if the world's busiest shipping shortcuts suddenly disappeared?\n\nMeet the Strait of Malacca, the narrow route between the Malay Peninsula and the Indonesian island of Sumatra. It connects the Indian Ocean with the South China Sea and the Pacific, and millions of barrels of oil pass through it every day. If it were blocked, ships would need longer routes, which would raise travel time and shipping costs, from fuel to electronics.\n\n📌 Quick facts\n• The Strait of Malacca lies between the Malay Peninsula and Sumatra\n• It links the Indian Ocean with the South China Sea and the Pacific\n• Ships between the Middle East and East Asia depend heavily on it\n• The alternative routes shown (round Sumatra, through the Sunda Strait) are an illustration\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Which narrow sea route do you think the world depends on most? Tell us in the comments.\n\n#Shorts #WhatIf #Malacca #ShippingRoutes #Explainer",
+      "tags": [
+        "what if",
+        "strait of malacca",
+        "malacca strait",
+        "shipping routes",
+        "oil shipping",
+        "global trade",
+        "supply chain",
+        "indian ocean",
+        "south china sea",
+        "what would happen if",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#WhatIf",
+        "#Malacca",
+        "#ShippingRoutes",
+        "#Explainer"
+      ],
+      "pinnedComment": "Which narrow sea route do you think the world depends on most? Tell us in the comments.",
+      "thumbnail": "videos/what-if-malacca-strait-disappeared/thumbnail.jpg",
+      "srt": "videos/what-if-malacca-strait-disappeared/captions.srt",
+      "vtt": "videos/what-if-malacca-strait-disappeared/captions.vtt",
+      "txt": "videos/what-if-malacca-strait-disappeared/youtube.txt",
+      "files": {
+        "video": "what-if-malacca-strait-disappeared.mp4",
+        "bundle": "what-if-malacca-strait-disappeared.zip",
+        "source": "what-if-malacca-strait-disappeared-source.zip"
       }
     }
   ]
