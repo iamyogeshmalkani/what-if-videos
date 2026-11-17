@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T18:09:09.000Z",
+  "updated": "2026-11-17T18:16:36.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2139,6 +2139,48 @@
         "video": "indus-valley-city-modern-drainage.mp4",
         "bundle": "indus-valley-city-modern-drainage.zip",
         "source": "indus-valley-city-modern-drainage-source.zip"
+      }
+    },
+    {
+      "slug": "what-if-india-china-stopped-trading",
+      "title": "What if India and China Stopped Trading Tomorrow? 🇮🇳🇨🇳",
+      "language": "en",
+      "category": "Education",
+      "duration": 39.8,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 49946000,
+      "description": "Imagine waking up tomorrow and discovering that India can no longer trade with China.\n\nChina is one of India's biggest sources of imported goods. In financial year 2024-25, India imported around $113 billion worth of merchandise from China, from electronics and machinery to chemicals and components. If trade suddenly stopped, companies would need alternative suppliers, some products could become more expensive, and factories could face shortages.\n\n📌 Quick facts\n• China is one of India's biggest sources of imports\n• India imported around $113 billion of merchandise from China in FY 2024-25 (Indian trade data)\n• Electronics, machinery, chemicals and components are major categories\n• Alternative suppliers would be needed\nFigures are approximate and rounded.\n\n🎬 Follow for more explainers about India and the world.\n\n💬 Which products would you miss first if India and China stopped trading? Tell us in the comments.\n\n#Shorts #WhatIf #IndiaChina #Trade #Explainer",
+      "tags": [
+        "what if",
+        "india china trade",
+        "india imports",
+        "china imports",
+        "supply chain",
+        "indian economy",
+        "electronics imports",
+        "global trade",
+        "what would happen if",
+        "india explained",
+        "shorts",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Shorts",
+        "#WhatIf",
+        "#IndiaChina",
+        "#Trade",
+        "#Explainer"
+      ],
+      "pinnedComment": "Which products would you miss first if India and China stopped trading? Tell us in the comments.",
+      "thumbnail": "videos/what-if-india-china-stopped-trading/thumbnail.jpg",
+      "srt": "videos/what-if-india-china-stopped-trading/captions.srt",
+      "vtt": "videos/what-if-india-china-stopped-trading/captions.vtt",
+      "txt": "videos/what-if-india-china-stopped-trading/youtube.txt",
+      "files": {
+        "video": "what-if-india-china-stopped-trading.mp4",
+        "bundle": "what-if-india-china-stopped-trading.zip",
+        "source": "what-if-india-china-stopped-trading-source.zip"
       }
     }
   ]
