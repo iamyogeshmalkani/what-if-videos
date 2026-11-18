@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-18T10:37:08.000Z",
+  "updated": "2026-11-18T10:37:15.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2764,6 +2764,55 @@
         "video": "curiosity-club-01-zero.mp4",
         "bundle": "curiosity-club-01-zero.zip",
         "source": "curiosity-club-01-zero-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-02-the-mystery-of-1729",
+      "title": "The mystery of 1729",
+      "language": "en",
+      "category": "Education",
+      "duration": 50.0,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 13545613,
+      "description": "A taxi number. A hospital visit. And one of the most fascinating stories in mathematics. 🧠\n\nWhen G. H. Hardy mentioned the number 1729 to Srinivasa Ramanujan, he had no idea how special it was.\n\nTwo different combinations of cubes. The exact same answer.\n\nSome people see ordinary numbers. Others see mathematical magic.\n\nWould you have spotted the secret behind 1729?",
+      "tags": [
+        "srinivasa ramanujan",
+        "1729",
+        "mathematics",
+        "math history",
+        "indian genius",
+        "math facts",
+        "genius mind",
+        "did you know",
+        "curiosity club india",
+        "knowledge reels",
+        "maths",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#SrinivasaRamanujan",
+        "#1729",
+        "#Mathematics",
+        "#MathHistory",
+        "#IndianGenius",
+        "#MathFacts",
+        "#GeniusMind",
+        "#DidYouKnow",
+        "#CuriosityClubIndia",
+        "#KnowledgeReels"
+      ],
+      "pinnedComment": "Would you have spotted the secret behind 1729?",
+      "thumbnail": "videos/curiosity-club-02-the-mystery-of-1729/thumbnail.jpg",
+      "srt": "videos/curiosity-club-02-the-mystery-of-1729/captions.srt",
+      "vtt": "videos/curiosity-club-02-the-mystery-of-1729/captions.vtt",
+      "txt": "videos/curiosity-club-02-the-mystery-of-1729/youtube.txt",
+      "files": {
+        "video": "curiosity-club-02-the-mystery-of-1729.mp4",
+        "bundle": "curiosity-club-02-the-mystery-of-1729.zip",
+        "source": "curiosity-club-02-the-mystery-of-1729-source.zip"
       }
     }
   ]

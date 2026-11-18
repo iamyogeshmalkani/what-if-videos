@@ -1,0 +1,76 @@
+1
+00:00:00,050 --> 00:00:03,550
+A number that looked boring to a Cambridge
+professor turned out to be mathematically
+
+2
+00:00:03,550 --> 00:00:04,280
+extraordinary.
+
+3
+00:00:04,550 --> 00:00:05,560
+In 1918,
+
+4
+00:00:05,810 --> 00:00:10,230
+the mathematician G. H. Hardy visited
+an Indian mathematician named Srinivasa
+
+5
+00:00:10,230 --> 00:00:11,700
+Ramanujan in hospital.
+
+6
+00:00:12,000 --> 00:00:16,003
+Hardy mentioned that the taxi he arrived
+in had a rather boring number: 1729.
+
+7
+00:00:16,830 --> 00:00:19,040
+But Ramanujan immediately disagreed.
+
+8
+00:00:19,250 --> 00:00:22,580
+He said 1729 was actually
+a very interesting number.
+
+9
+00:00:22,790 --> 00:00:26,890
+It was the smallest number that could be
+expressed as the sum of two positive cubes
+
+10
+00:00:26,890 --> 00:00:28,280
+in two different ways.
+
+11
+00:00:28,570 --> 00:00:32,220
+First: 1 cubed plus 12 cubed equals 1729.
+
+12
+00:00:33,300 --> 00:00:36,090
+Second: 9 cubed plus 10
+cubed also equals 1729.
+
+13
+00:00:36,940 --> 00:00:38,470
+Two completely different combinations.
+
+14
+00:00:38,820 --> 00:00:39,730
+The same number!
+
+15
+00:00:39,900 --> 00:00:43,730
+That's why 1729 became famous
+as the Hardy–Ramanujan number.
+
+16
+00:00:43,800 --> 00:00:47,630
+Imagine looking at an ordinary taxi
+number and seeing something extraordinary.
+
+17
+00:00:47,840 --> 00:00:48,850
+Would you have noticed it?
+
