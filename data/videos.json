@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-18T10:37:23.000Z",
+  "updated": "2026-11-18T10:37:31.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2862,6 +2862,54 @@
         "video": "curiosity-club-03-what-if-the-sun-disappeared.mp4",
         "bundle": "curiosity-club-03-what-if-the-sun-disappeared.zip",
         "source": "curiosity-club-03-what-if-the-sun-disappeared-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-04-would-you-enter-the-teleportation-machine",
+      "title": "Would you enter the teleportation machine?",
+      "language": "en",
+      "category": "Education",
+      "duration": 44.97,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 12800041,
+      "description": "Your perfect copy is created. It has your memories, your personality, and even your childhood experiences.\n\nBut there's a catch.\n\nThe original you is destroyed.\n\nWould your copy actually be YOU? Or would it just be another person who believes they're you?\n\nThis is one of the strangest questions in philosophy.\n\nBe honest. Would you enter the machine?",
+      "tags": [
+        "philosophy",
+        "identity",
+        "teleportation",
+        "thought experiment",
+        "consciousness",
+        "deep questions",
+        "human mind",
+        "philosophy reels",
+        "curiosity club india",
+        "mind bending",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Philosophy",
+        "#Identity",
+        "#Teleportation",
+        "#ThoughtExperiment",
+        "#Consciousness",
+        "#DeepQuestions",
+        "#HumanMind",
+        "#PhilosophyReels",
+        "#CuriosityClubIndia",
+        "#MindBending"
+      ],
+      "pinnedComment": "Be honest. Would you enter the machine?",
+      "thumbnail": "videos/curiosity-club-04-would-you-enter-the-teleportation-machine/thumbnail.jpg",
+      "srt": "videos/curiosity-club-04-would-you-enter-the-teleportation-machine/captions.srt",
+      "vtt": "videos/curiosity-club-04-would-you-enter-the-teleportation-machine/captions.vtt",
+      "txt": "videos/curiosity-club-04-would-you-enter-the-teleportation-machine/youtube.txt",
+      "files": {
+        "video": "curiosity-club-04-would-you-enter-the-teleportation-machine.mp4",
+        "bundle": "curiosity-club-04-would-you-enter-the-teleportation-machine.zip",
+        "source": "curiosity-club-04-would-you-enter-the-teleportation-machine-source.zip"
       }
     }
   ]
