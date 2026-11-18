@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-17T19:14:00.000Z",
+  "updated": "2026-11-18T10:37:08.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2715,6 +2715,55 @@
         "video": "mind-traps-4-sunk-cost-trap.mp4",
         "bundle": "mind-traps-4-sunk-cost-trap.zip",
         "source": "mind-traps-4-sunk-cost-trap-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-01-zero",
+      "title": "What if India had never invented zero?",
+      "language": "en",
+      "category": "Education",
+      "duration": 49.8,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 15673958,
+      "description": "What if the world had never discovered zero? 🤯\n\nFrom mathematics and science to computers and modern technology, zero changed the way humanity understands numbers.\n\nAnd one of its most important mathematical developments has deep roots in India.\n\nSometimes, the most powerful invention is a number that represents nothing.\n\nDo you think zero is the greatest mathematical invention ever?",
+      "tags": [
+        "zero",
+        "indian mathematics",
+        "history of mathematics",
+        "math facts",
+        "indian history",
+        "science and math",
+        "did you know",
+        "curiosity club india",
+        "knowledge reels",
+        "learn something new",
+        "maths",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Zero",
+        "#IndianMathematics",
+        "#HistoryOfMathematics",
+        "#MathFacts",
+        "#IndianHistory",
+        "#ScienceAndMath",
+        "#DidYouKnow",
+        "#CuriosityClubIndia",
+        "#KnowledgeReels",
+        "#LearnSomethingNew"
+      ],
+      "pinnedComment": "Do you think zero is the greatest mathematical invention ever?",
+      "thumbnail": "videos/curiosity-club-01-zero/thumbnail.jpg",
+      "srt": "videos/curiosity-club-01-zero/captions.srt",
+      "vtt": "videos/curiosity-club-01-zero/captions.vtt",
+      "txt": "videos/curiosity-club-01-zero/youtube.txt",
+      "files": {
+        "video": "curiosity-club-01-zero.mp4",
+        "bundle": "curiosity-club-01-zero.zip",
+        "source": "curiosity-club-01-zero-source.zip"
       }
     }
   ]
