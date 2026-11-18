@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-18T10:37:15.000Z",
+  "updated": "2026-11-18T10:37:23.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2813,6 +2813,55 @@
         "video": "curiosity-club-02-the-mystery-of-1729.mp4",
         "bundle": "curiosity-club-02-the-mystery-of-1729.zip",
         "source": "curiosity-club-02-the-mystery-of-1729-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-03-what-if-the-sun-disappeared",
+      "title": "What if the Sun disappeared?",
+      "language": "en",
+      "category": "Education",
+      "duration": 51.17,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 15630046,
+      "description": "Imagine the Sun disappearing right now. ☀️\n\nThe crazy part? We would continue seeing sunlight for approximately 8 minutes and 20 seconds.\n\nThat's how long light takes to travel from the Sun to Earth.\n\nAnd gravity has a similar delay.\n\nSpace is full of things happening that we won't know about immediately.\n\nWhat would you do if the Sun suddenly disappeared?",
+      "tags": [
+        "sun",
+        "space facts",
+        "astronomy",
+        "science facts",
+        "universe",
+        "space science",
+        "physics",
+        "mind blowing facts",
+        "curiosity club india",
+        "science reels",
+        "science",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Sun",
+        "#SpaceFacts",
+        "#Astronomy",
+        "#ScienceFacts",
+        "#Universe",
+        "#SpaceScience",
+        "#Physics",
+        "#MindBlowingFacts",
+        "#CuriosityClubIndia",
+        "#ScienceReels"
+      ],
+      "pinnedComment": "What would you do if the Sun suddenly disappeared?",
+      "thumbnail": "videos/curiosity-club-03-what-if-the-sun-disappeared/thumbnail.jpg",
+      "srt": "videos/curiosity-club-03-what-if-the-sun-disappeared/captions.srt",
+      "vtt": "videos/curiosity-club-03-what-if-the-sun-disappeared/captions.vtt",
+      "txt": "videos/curiosity-club-03-what-if-the-sun-disappeared/youtube.txt",
+      "files": {
+        "video": "curiosity-club-03-what-if-the-sun-disappeared.mp4",
+        "bundle": "curiosity-club-03-what-if-the-sun-disappeared.zip",
+        "source": "curiosity-club-03-what-if-the-sun-disappeared-source.zip"
       }
     }
   ]
