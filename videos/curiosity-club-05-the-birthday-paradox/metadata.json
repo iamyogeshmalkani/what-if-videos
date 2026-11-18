@@ -1,0 +1,42 @@
+{
+  "title": "The birthday paradox",
+  "language": "en",
+  "category": "Education",
+  "description": "Only 23 people. One room. And a 50.7% chance that two people share the same birthday. 🎂\n\nSounds impossible, but the mathematics is real.\n\nThe secret? We're not comparing everyone's birthday with yours. We're comparing every possible pair of people.\n\nTry this with your friends or colleagues.\n\nDid you expect the probability to be this high?",
+  "tags": [
+    "birthday paradox",
+    "mathematics",
+    "probability",
+    "math tricks",
+    "brain teasers",
+    "math facts",
+    "interesting facts",
+    "learn math",
+    "curiosity club india",
+    "knowledge reels",
+    "maths",
+    "shorts",
+    "reels",
+    "explainer"
+  ],
+  "hashtags": [
+    "#BirthdayParadox",
+    "#Mathematics",
+    "#Probability",
+    "#MathTricks",
+    "#BrainTeasers",
+    "#MathFacts",
+    "#InterestingFacts",
+    "#LearnMath",
+    "#CuriosityClubIndia",
+    "#KnowledgeReels"
+  ],
+  "pinnedComment": "Did you expect the probability to be this high?",
+  "thumbnail": {
+    "lines": [
+      "*23 PEOPLE*"
+    ],
+    "y": 40,
+    "size": 140
+  }
+}

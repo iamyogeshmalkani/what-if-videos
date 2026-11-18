@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-18T10:37:31.000Z",
+  "updated": "2026-11-18T10:37:47.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -2910,6 +2910,55 @@
         "video": "curiosity-club-04-would-you-enter-the-teleportation-machine.mp4",
         "bundle": "curiosity-club-04-would-you-enter-the-teleportation-machine.zip",
         "source": "curiosity-club-04-would-you-enter-the-teleportation-machine-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-05-the-birthday-paradox",
+      "title": "The birthday paradox",
+      "language": "en",
+      "category": "Education",
+      "duration": 50.03,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 14807289,
+      "description": "Only 23 people. One room. And a 50.7% chance that two people share the same birthday. 🎂\n\nSounds impossible, but the mathematics is real.\n\nThe secret? We're not comparing everyone's birthday with yours. We're comparing every possible pair of people.\n\nTry this with your friends or colleagues.\n\nDid you expect the probability to be this high?",
+      "tags": [
+        "birthday paradox",
+        "mathematics",
+        "probability",
+        "math tricks",
+        "brain teasers",
+        "math facts",
+        "interesting facts",
+        "learn math",
+        "curiosity club india",
+        "knowledge reels",
+        "maths",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#BirthdayParadox",
+        "#Mathematics",
+        "#Probability",
+        "#MathTricks",
+        "#BrainTeasers",
+        "#MathFacts",
+        "#InterestingFacts",
+        "#LearnMath",
+        "#CuriosityClubIndia",
+        "#KnowledgeReels"
+      ],
+      "pinnedComment": "Did you expect the probability to be this high?",
+      "thumbnail": "videos/curiosity-club-05-the-birthday-paradox/thumbnail.jpg",
+      "srt": "videos/curiosity-club-05-the-birthday-paradox/captions.srt",
+      "vtt": "videos/curiosity-club-05-the-birthday-paradox/captions.vtt",
+      "txt": "videos/curiosity-club-05-the-birthday-paradox/youtube.txt",
+      "files": {
+        "video": "curiosity-club-05-the-birthday-paradox.mp4",
+        "bundle": "curiosity-club-05-the-birthday-paradox.zip",
+        "source": "curiosity-club-05-the-birthday-paradox-source.zip"
       }
     }
   ]

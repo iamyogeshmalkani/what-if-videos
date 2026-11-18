@@ -1,0 +1,77 @@
+1
+00:00:00,050 --> 00:00:01,850
+Put just 23 people in a room,
+
+2
+00:00:01,850 --> 00:00:05,340
+and there's almost a 50% chance
+two share the same birthday!
+
+3
+00:00:05,610 --> 00:00:06,920
+Sounds impossible, right?
+
+4
+00:00:07,070 --> 00:00:09,500
+There are 365 days in a year.
+
+5
+00:00:09,650 --> 00:00:12,160
+Surely you'd need hundreds
+of people to get a match.
+
+6
+00:00:12,390 --> 00:00:13,780
+But the mathematics says otherwise.
+
+7
+00:00:14,170 --> 00:00:14,960
+Here's the trick.
+
+8
+00:00:15,310 --> 00:00:18,280
+We're not asking whether
+someone shares YOUR birthday.
+
+9
+00:00:18,530 --> 00:00:21,260
+We're checking whether ANY two
+people in the room share a birthday.
+
+10
+00:00:21,570 --> 00:00:26,800
+With 23 people, there are already 253
+different pairs of people who could match.
+
+11
+00:00:27,190 --> 00:00:31,860
+The probability that everyone has a
+different birthday is only about 49.3%.
+
+12
+00:00:31,920 --> 00:00:35,280
+Which means the probability of at least
+one shared birthday is approximately
+
+13
+00:00:35,280 --> 00:00:36,870
+50.7%!
+
+14
+00:00:37,380 --> 00:00:40,810
+And with 50 people,
+that probability jumps to about 97%.
+
+15
+00:00:41,670 --> 00:00:43,660
+This is called the Birthday Paradox.
+
+16
+00:00:44,090 --> 00:00:46,900
+So tell me, how many people are
+in your office or classroom?
+
+17
+00:00:47,140 --> 00:00:48,770
+You might already have a birthday match!
+
