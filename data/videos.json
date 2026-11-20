@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-20T06:42:06.000Z",
+  "updated": "2026-11-20T06:42:15.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -3057,6 +3057,55 @@
         "video": "curiosity-club-07-design-a-world-without-knowing-who-youll-be.mp4",
         "bundle": "curiosity-club-07-design-a-world-without-knowing-who-youll-be.zip",
         "source": "curiosity-club-07-design-a-world-without-knowing-who-youll-be-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-08-the-monty-hall-problem",
+      "title": "The Monty Hall problem",
+      "language": "en",
+      "category": "Education",
+      "duration": 50.0,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 13149953,
+      "description": "3 doors. 1 car. 2 goats. 🚪\n\nYou make your choice. The host opens another door and reveals a goat.\n\nNow you can switch or stay.\n\nHere's the surprising part: switching gives you a 2/3 chance of winning, while staying gives you only 1/3.\n\nYour intuition might disagree, but the mathematics doesn't.\n\nBe honest: Would you switch?",
+      "tags": [
+        "monty hall problem",
+        "probability",
+        "math puzzle",
+        "brain teaser",
+        "mathematics",
+        "logic puzzle",
+        "critical thinking",
+        "mind blown",
+        "math reels",
+        "curiosity club india",
+        "knowledge reels",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#MontyHallProblem",
+        "#Probability",
+        "#MathPuzzle",
+        "#BrainTeaser",
+        "#Mathematics",
+        "#LogicPuzzle",
+        "#CriticalThinking",
+        "#MindBlown",
+        "#CuriosityClubIndia",
+        "#MathReels"
+      ],
+      "pinnedComment": "Be honest: Would you switch?",
+      "thumbnail": "videos/curiosity-club-08-the-monty-hall-problem/thumbnail.jpg",
+      "srt": "videos/curiosity-club-08-the-monty-hall-problem/captions.srt",
+      "vtt": "videos/curiosity-club-08-the-monty-hall-problem/captions.vtt",
+      "txt": "videos/curiosity-club-08-the-monty-hall-problem/youtube.txt",
+      "files": {
+        "video": "curiosity-club-08-the-monty-hall-problem.mp4",
+        "bundle": "curiosity-club-08-the-monty-hall-problem.zip",
+        "source": "curiosity-club-08-the-monty-hall-problem-source.zip"
       }
     }
   ]

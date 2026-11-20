@@ -1,0 +1,95 @@
+1
+00:00:00,050 --> 00:00:01,260
+You choose one of three doors.
+
+2
+00:00:01,510 --> 00:00:02,580
+I open an empty one.
+
+3
+00:00:02,810 --> 00:00:03,480
+Should you switch?
+
+4
+00:00:03,730 --> 00:00:05,520
+The answer surprises almost everyone.
+
+5
+00:00:05,770 --> 00:00:08,040
+Behind one door is a brand-new car.
+
+6
+00:00:08,150 --> 00:00:09,620
+Behind the other two are goats.
+
+7
+00:00:10,040 --> 00:00:11,230
+You choose Door 1.
+
+8
+00:00:11,340 --> 00:00:15,710
+The host, who knows what's behind every
+door, opens Door 3 and reveals a goat.
+
+9
+00:00:15,880 --> 00:00:17,710
+Now only two doors remain closed.
+
+10
+00:00:18,040 --> 00:00:20,470
+Your original Door 1 and Door 2.
+
+11
+00:00:20,620 --> 00:00:21,550
+You have two choices:
+
+12
+00:00:21,940 --> 00:00:24,250
+stay with your original
+pick or switch to Door 2.
+
+13
+00:00:24,410 --> 00:00:25,180
+Here's the twist.
+
+14
+00:00:25,550 --> 00:00:30,180
+When you first picked Door 1, you had just
+a one-third chance of choosing the car.
+
+15
+00:00:30,370 --> 00:00:32,940
+The other two doors together
+had a two-thirds chance.
+
+16
+00:00:33,210 --> 00:00:36,100
+The host's action doesn't change
+your original probability.
+
+17
+00:00:36,430 --> 00:00:40,920
+By revealing a goat, that two-thirds
+chance effectively transfers to Door 2.
+
+18
+00:00:41,090 --> 00:00:43,360
+So switching gives you a
+two-thirds chance of winning,
+
+19
+00:00:43,450 --> 00:00:45,380
+while staying gives you only one-third.
+
+20
+00:00:45,380 --> 00:00:46,870
+This is the Monty Hall Problem.
+
+21
+00:00:47,080 --> 00:00:47,710
+Be honest.
+
+22
+00:00:47,900 --> 00:00:48,750
+Would you have switched?
+

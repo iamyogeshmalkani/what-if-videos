@@ -1,0 +1,21 @@
+TITLE
+The Monty Hall problem
+
+DESCRIPTION
+3 doors. 1 car. 2 goats. 🚪
+
+You make your choice. The host opens another door and reveals a goat.
+
+Now you can switch or stay.
+
+Here's the surprising part: switching gives you a 2/3 chance of winning, while staying gives you only 1/3.
+
+Your intuition might disagree, but the mathematics doesn't.
+
+Be honest: Would you switch?
+
+TAGS
+monty hall problem, probability, math puzzle, brain teaser, mathematics, logic puzzle, critical thinking, mind blown, math reels, curiosity club india, knowledge reels, shorts, reels, explainer
+
+PINNED COMMENT
+Be honest: Would you switch?
