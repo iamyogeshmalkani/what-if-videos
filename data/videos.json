@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-20T06:42:23.000Z",
+  "updated": "2026-11-20T06:42:32.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -3155,6 +3155,55 @@
         "video": "curiosity-club-09-do-people-on-higher-floors-age-faster.mp4",
         "bundle": "curiosity-club-09-do-people-on-higher-floors-age-faster.zip",
         "source": "curiosity-club-09-do-people-on-higher-floors-age-faster-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-10-would-you-sacrifice-one-to-save-five",
+      "title": "Would you sacrifice one to save five?",
+      "language": "en",
+      "category": "Education",
+      "duration": 47.97,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 14072981,
+      "description": "A runaway train is heading towards five people.\n\nYou can pull a lever and save them.\n\nBut doing so would kill someone on the other track.\n\nAnd this time, that person is your sibling.\n\nWould you pull the lever?\n\nThe Trolley Problem challenges our ideas about morality, responsibility, and the value of human life.\n\nThere is no easy answer.\n\nTell me what you would actually do. Not what sounds morally correct.",
+      "tags": [
+        "trolley problem",
+        "philosophy",
+        "moral dilemma",
+        "ethics",
+        "psychology",
+        "critical thinking",
+        "human nature",
+        "deep questions",
+        "philosophy reels",
+        "curiosity club india",
+        "knowledge reels",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#TrolleyProblem",
+        "#Philosophy",
+        "#MoralDilemma",
+        "#Ethics",
+        "#Psychology",
+        "#CriticalThinking",
+        "#HumanNature",
+        "#DeepQuestions",
+        "#CuriosityClubIndia",
+        "#PhilosophyReels"
+      ],
+      "pinnedComment": "Tell me what you would actually do. Not what sounds morally correct.",
+      "thumbnail": "videos/curiosity-club-10-would-you-sacrifice-one-to-save-five/thumbnail.jpg",
+      "srt": "videos/curiosity-club-10-would-you-sacrifice-one-to-save-five/captions.srt",
+      "vtt": "videos/curiosity-club-10-would-you-sacrifice-one-to-save-five/captions.vtt",
+      "txt": "videos/curiosity-club-10-would-you-sacrifice-one-to-save-five/youtube.txt",
+      "files": {
+        "video": "curiosity-club-10-would-you-sacrifice-one-to-save-five.mp4",
+        "bundle": "curiosity-club-10-would-you-sacrifice-one-to-save-five.zip",
+        "source": "curiosity-club-10-would-you-sacrifice-one-to-save-five-source.zip"
       }
     }
   ]
