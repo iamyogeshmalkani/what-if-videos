@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-20T06:41:58.000Z",
+  "updated": "2026-11-20T06:42:06.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -3008,6 +3008,55 @@
         "video": "curiosity-club-06-what-if-the-moon-disappeared.mp4",
         "bundle": "curiosity-club-06-what-if-the-moon-disappeared.zip",
         "source": "curiosity-club-06-what-if-the-moon-disappeared-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-07-design-a-world-without-knowing-who-youll-be",
+      "title": "Design a world without knowing who you'll be",
+      "language": "en",
+      "category": "Education",
+      "duration": 48.0,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 14893140,
+      "description": "Imagine creating the rules of the world without knowing where you'll be born.\n\nYou could be rich or poor. Powerful or powerless. Healthy or disabled.\n\nWould you still design the same society?\n\nThis thought experiment, inspired by philosopher John Rawls, challenges how we think about fairness, equality, and justice.\n\nIf you could redesign the world, what is the first rule you'd change?",
+      "tags": [
+        "philosophy",
+        "john rawls",
+        "veil of ignorance",
+        "critical thinking",
+        "social justice",
+        "deep thinking",
+        "philosophy of life",
+        "thought experiment",
+        "big questions",
+        "curiosity club india",
+        "knowledge reels",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Philosophy",
+        "#JohnRawls",
+        "#VeilOfIgnorance",
+        "#CriticalThinking",
+        "#SocialJustice",
+        "#DeepThinking",
+        "#PhilosophyOfLife",
+        "#ThoughtExperiment",
+        "#CuriosityClubIndia",
+        "#BigQuestions"
+      ],
+      "pinnedComment": "If you could redesign the world, what is the first rule you'd change?",
+      "thumbnail": "videos/curiosity-club-07-design-a-world-without-knowing-who-youll-be/thumbnail.jpg",
+      "srt": "videos/curiosity-club-07-design-a-world-without-knowing-who-youll-be/captions.srt",
+      "vtt": "videos/curiosity-club-07-design-a-world-without-knowing-who-youll-be/captions.vtt",
+      "txt": "videos/curiosity-club-07-design-a-world-without-knowing-who-youll-be/youtube.txt",
+      "files": {
+        "video": "curiosity-club-07-design-a-world-without-knowing-who-youll-be.mp4",
+        "bundle": "curiosity-club-07-design-a-world-without-knowing-who-youll-be.zip",
+        "source": "curiosity-club-07-design-a-world-without-knowing-who-youll-be-source.zip"
       }
     }
   ]
