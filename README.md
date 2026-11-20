@@ -1,6 +1,6 @@
 # What if videos
 
-75 short videos (43 "What if...?" map videos, 6 "What if...?" low-poly island films and 26 educational explainers), each with a thumbnail, captions and a YouTube-ready title, description and tags.
+76 short videos (43 "What if...?" map videos, 6 "What if...?" low-poly island films and 27 educational explainers), each with a thumbnail, captions and a YouTube-ready title, description and tags.
 
 - Page: https://iamyogeshmalkani.github.io/what-if-videos/
 - Files: the Releases page, tag `videos`. For every video there is `<name>.mp4`, `<name>.zip` (video, thumbnail, .srt, .vtt and a text file with the title, description and tags) and `<name>-source.zip` (script and scenes, to make the video again).

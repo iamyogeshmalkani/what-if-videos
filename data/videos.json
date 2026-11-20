@@ -1,7 +1,7 @@
 {
   "repo": "iamyogeshmalkani/what-if-videos",
   "tag": "videos",
-  "updated": "2026-11-20T06:42:15.000Z",
+  "updated": "2026-11-20T06:42:23.000Z",
   "videos": [
     {
       "slug": "what-if-all-india-lived-in-mumbai",
@@ -3106,6 +3106,55 @@
         "video": "curiosity-club-08-the-monty-hall-problem.mp4",
         "bundle": "curiosity-club-08-the-monty-hall-problem.zip",
         "source": "curiosity-club-08-the-monty-hall-problem-source.zip"
+      }
+    },
+    {
+      "slug": "curiosity-club-09-do-people-on-higher-floors-age-faster",
+      "title": "Do people on higher floors age faster?",
+      "language": "en",
+      "category": "Education",
+      "duration": 54.4,
+      "width": 1080,
+      "height": 1920,
+      "bytes": 17412528,
+      "description": "Your neighbour on the top floor is technically ageing faster than you. ⏳\n\nAccording to Einstein's theory of general relativity, time passes slightly faster where gravity is weaker.\n\nThe higher you go, the farther you are from Earth's centre, and the weaker gravity becomes.\n\nThe difference is incredibly tiny, but scientists can actually measure it using atomic clocks.\n\nTime isn't the same everywhere. Even on Earth.\n\nDid you know gravity could affect time?",
+      "tags": [
+        "einstein",
+        "theory of relativity",
+        "time dilation",
+        "physics facts",
+        "science explained",
+        "space time",
+        "atomic clock",
+        "mind blowing science",
+        "science reels",
+        "curiosity club india",
+        "knowledge reels",
+        "shorts",
+        "reels",
+        "explainer"
+      ],
+      "hashtags": [
+        "#Einstein",
+        "#TheoryOfRelativity",
+        "#TimeDilation",
+        "#PhysicsFacts",
+        "#ScienceExplained",
+        "#SpaceTime",
+        "#AtomicClock",
+        "#MindBlowingScience",
+        "#CuriosityClubIndia",
+        "#ScienceReels"
+      ],
+      "pinnedComment": "Did you know gravity could affect time?",
+      "thumbnail": "videos/curiosity-club-09-do-people-on-higher-floors-age-faster/thumbnail.jpg",
+      "srt": "videos/curiosity-club-09-do-people-on-higher-floors-age-faster/captions.srt",
+      "vtt": "videos/curiosity-club-09-do-people-on-higher-floors-age-faster/captions.vtt",
+      "txt": "videos/curiosity-club-09-do-people-on-higher-floors-age-faster/youtube.txt",
+      "files": {
+        "video": "curiosity-club-09-do-people-on-higher-floors-age-faster.mp4",
+        "bundle": "curiosity-club-09-do-people-on-higher-floors-age-faster.zip",
+        "source": "curiosity-club-09-do-people-on-higher-floors-age-faster-source.zip"
       }
     }
   ]
